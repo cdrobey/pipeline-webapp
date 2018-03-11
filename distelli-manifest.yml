@@ -1,4 +1,4 @@
-cdroberson/puppet_webapp:
+cdroberson/pipeline-webapp:
   Env:
     - PORT: "8080"
   PreBuild:
