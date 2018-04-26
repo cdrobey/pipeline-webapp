@@ -1,7 +1,7 @@
 # puppet_webaapp
 
 FROM centos:latest
-MAINTAINER ipcrm
+MAINTAINER cdrobey
 
 
 COPY requirements.txt /tmp/
